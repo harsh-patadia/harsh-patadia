@@ -75,8 +75,6 @@ I’m a passionate **Software Developer** with over 2 years of experience in **P
 
 ## 🌱 Currently Working On
 - Advanced **React Native** projects, focusing on **responsiveness** and **performance optimization**.
-- A healthcare registration and profile management platform that allows patients, doctors, and other healthcare professionals to create and manage profiles.
-
 ---
 
 ### 📈 Let's Connect
