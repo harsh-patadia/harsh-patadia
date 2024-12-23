@@ -4,10 +4,7 @@
 📫 Reach me at **harshsoni.1029@gmail.com**  
 📱 **+91 94997 09805**
 
---
-
-I’m a **Software Developer** with 1+ years of experiance in **MERN Stack** and **React Native** development and over 1.5+ years of experience in **PHP & Web Development** . Having a strong foundation in full-stack development, with a proven ability to tackle complex problems using innovative solutions.
---
+### I’m a **Software Developer** with 1+ years of experiance in **MERN Stack** and **React Native** development and over 1.5+ years of experience in **PHP & Web Development** . Having a strong foundation in full-stack development, with a proven ability to tackle complex problems using innovative solutions.
 
 ## 🛠️ Technical Skills
 
