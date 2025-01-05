@@ -9,7 +9,7 @@
 ## 🛠️ Technical Skills
 
 - **Languages:** JavaScript, PHP, Python
-- **Web Technologies:**Node.js, React.js, Express.js, HTML, CSS
+- **Web Technologies:** Node.js, React.js, Express.js, HTML, CSS
 - **Mobile Development:** React Native
 - **Databases:** MySQL, Firebase, MongoDB, Oracle
 - **Version Control:** Git, GitHub, GitLab, Fork
@@ -48,7 +48,9 @@
 
 4. **[PhotoCularrs Photography](https://photocularrs.in/)**  
    A digital portfolio and client and user management app for photographers (wordpress with woocommerce plugins).
-
+   
+3. **[Potterpumps](https://potterpumps.com/)**  
+   An Ecommerce platform to shop product online and manage users, online payments, products.
 ---
 
 ## 💼 Portfolio Highlights
@@ -62,4 +64,4 @@
 
 ### 📈 Let's Connect
 
-If you're interested in my work, feel free to reach out, or connect with me on **GitHub, linkedin, fiverr or instagram**. Always ready to tackle and learn emerging technologies and Looking forward for new opportunities and collaborations!
+If you're interested in my work, feel free to reach out, or connect with me on **GitHub, linkedin or instagram**. Always ready to tackle and learn emerging technologies and Looking forward for new opportunities and collaborations!
