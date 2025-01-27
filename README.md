@@ -11,7 +11,7 @@
 - **Languages:** JavaScript, PHP, Python
 - **Web Technologies:** Node.js, React.js, Express.js, HTML, CSS
 - **Mobile Development:** React Native
-- **Databases:** MySQL, Firebase, MongoDB, Oracle
+- **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub, GitLab, Fork
 - **Other Tools:** FileZilla, AI Tools
 
