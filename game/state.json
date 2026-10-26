@@ -2,16 +2,16 @@
   "board": [
     "O",
     "",
-    "",
+    "O",
     "",
     "X",
     "",
     "",
     "",
-    ""
+    "X"
   ],
   "games_played": 0,
-  "last_player": "harsh-patadia",
+  "last_player": "tapan-brilo",
   "last_result": null,
   "scores": {
     "bot": 0,
