@@ -50,8 +50,6 @@ You're ❌. The bot is ⭕ and plays perfect tic-tac-toe — it has literally ne
 
 - **AI Voice-Agent Automation Platform** — realtime voice-agent workflows, automated conversational testing, CRM & scheduling integrations
 - **[healthsucks.com](https://healthsucks.com)** — my health blog; source of the live wire above
-- **[PASS Tooling Machinery](https://beta.passtooling.com/)** — tooling machinery management platform (MERN)
-- **[Potterpumps](https://potterpumps.com/)** — e-commerce platform with payments and product management
 
 ## Stack
 
