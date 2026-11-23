@@ -30,11 +30,11 @@ You're ❌. The bot is ⭕ and plays perfect tic-tac-toe — it has literally ne
 
 *This section rewrites itself every morning. No human touches it.*
 
+- [Men&#x27;s Winter Skincare Routine - Humidifier Humidity Tips](https://www.healthsucks.com/mens-winter-skincare-routine-dry-skin-barrier)
 - [Proper exercise form - choosing your 12–15-rep weight](https://www.healthsucks.com/proper-exercise-form-lifting-mistakes)
 - [Full Body Workout for Beginners - Dead Bug Variations](https://www.healthsucks.com/full-body-workout-beginners-two-day-plan)
-- [Men&#x27;s skincare routine for beginners - Morning-Night Order](https://www.healthsucks.com/mens-skincare-routine-beginners-cleanser-moisturizer-spf)
 
-*Last synced: 22 Nov 2026 · [healthsucks.com](https://www.healthsucks.com) — health advice that admits when it's guessing.*
+*Last synced: 23 Nov 2026 · [healthsucks.com](https://www.healthsucks.com) — health advice that admits when it's guessing.*
 <!-- LIVE:END -->
 
 ---
