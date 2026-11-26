@@ -34,7 +34,7 @@ You're ❌. The bot is ⭕ and plays perfect tic-tac-toe — it has literally ne
 - [Proper exercise form - choosing your 12–15-rep weight](https://www.healthsucks.com/proper-exercise-form-lifting-mistakes)
 - [Full Body Workout for Beginners - Dead Bug Variations](https://www.healthsucks.com/full-body-workout-beginners-two-day-plan)
 
-*Last synced: 25 Nov 2026 · [healthsucks.com](https://www.healthsucks.com) — health advice that admits when it's guessing.*
+*Last synced: 26 Nov 2026 · [healthsucks.com](https://www.healthsucks.com) — health advice that admits when it's guessing.*
 <!-- LIVE:END -->
 
 ---
